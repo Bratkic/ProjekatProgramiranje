@@ -1,0 +1,40 @@
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\bin\Debug\EDnevnik.exe.config
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\bin\Debug\EDnevnik.exe
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\bin\Debug\EDnevnik.pdb
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Osoba.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Properties.Resources.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.exe
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.pdb
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Glavna.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Login.resources
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\bin\Debug\EDnevnik.exe.config
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\bin\Debug\EDnevnik.exe
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\bin\Debug\EDnevnik.pdb
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.Glavna.resources
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.Login.resources
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.Osoba.resources
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.Properties.Resources.resources
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.Sifarnik.resources
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.csproj.GenerateResource.cache
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.exe
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.pdb
+C:\Users\Korisnik\Downloads\Domaci-Osoba-master\Domaci-Osoba-master\obj\Debug\EDnevnik.Raspodela.resources
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\bin\Debug\EDnevnik.exe.config
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\bin\Debug\EDnevnik.exe
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\bin\Debug\EDnevnik.pdb
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.Glavna.resources
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.Login.resources
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.Osoba.resources
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.Raspodela.resources
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.Sifarnik.resources
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.exe
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.pdb

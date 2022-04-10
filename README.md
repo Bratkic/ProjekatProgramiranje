@@ -1,2 +1,2 @@
-# ProjekatProgramiranje
- Domaci kod profesora POusica
+# EDnevnik
+ 
