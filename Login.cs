@@ -45,8 +45,10 @@ namespace EDnevnik
                             Program.user_prezime = tabela.Rows[0]["prezime"].ToString();
                             Program.user_uloga = (int)tabela.Rows[0]["uloga"];
                             this.Hide();
-                            Glavna frm_Glavna = new Glavna();
-                            frm_Glavna.Show();
+                            Glavna2 frm_Glavna2 = new Glavna2();
+                            frm_Glavna2.Show();
+                            //Glavna frm_Glavna = new Glavna();
+                            //frm_Glavna.Show();
                         }
                         else
                         {
