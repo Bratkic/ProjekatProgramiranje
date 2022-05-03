@@ -40,3 +40,4 @@ C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\
 C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.pdb
 C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.Glavna2.resources
 C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.Upisnica.resources
+C:\Users\Korisnik\Desktop\Skola (1)\Programiranje git\ProjekatProgramiranje\obj\Debug\EDnevnik.Ocena.resources
